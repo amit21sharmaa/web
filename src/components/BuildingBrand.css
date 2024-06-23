@@ -1,0 +1,21 @@
+    .buildingBrand{
+        display:flex;
+        flex-direction:row;
+        justify-content: space-around;
+        align-content: center;
+    }
+    .buildingBrandText{
+        color:black;
+        width:40%;
+        align-content:center;
+    }
+    .BuildingBrandsPicture{
+        border-radius:50px;
+        width:100%;
+    }
+    .buildingBrandCompanyLogo{
+        display:block;
+        text-align:center;
+        margin-top:5%; 
+        font-size:1.5rem;
+    }
